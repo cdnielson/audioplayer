@@ -1,0 +1,26 @@
+{ "title" : "My Album 2",
+  "artist" : "Various",
+  "songs" :
+  [
+    {
+      "id": 0,
+      "name": "Back in Black",
+      "url": "audio/ACDC_-_Back_In_Black-sample.ogg"
+    },
+    {
+      "id": 1,
+      "name": "Another Day in Paradise",
+      "url": "audio/paradise.ogg"
+    },
+    {
+      "id": 2,
+      "name": "Back in Black2",
+      "url": "audio/ACDC_-_Back_In_Black-sample.ogg"
+    },
+    {
+      "id": 3,
+      "name": "Another Day in Paradise3",
+      "url": "audio/paradise.ogg"
+    }
+  ]
+}
